@@ -1,0 +1,18 @@
+[08-Jun-2021 11:40:04 UTC] PHP Fatal error:  Uncaught RuntimeException: Incorrectly signed response from Payment Gateway (2) in /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php:390
+Stack trace:
+#0 /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php(154): P3\SDK\Gateway::verifyResponse(Array, 'Circle4Take40Id...')
+#1 /home/iczb6wss881e/dvdrive.co.uk/cardstream/test.php(27): P3\SDK\Gateway::directRequest(Array)
+#2 {main}
+  thrown in /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php on line 390
+[08-Jun-2021 11:40:09 UTC] PHP Fatal error:  Uncaught RuntimeException: Incorrectly signed response from Payment Gateway (2) in /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php:390
+Stack trace:
+#0 /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php(154): P3\SDK\Gateway::verifyResponse(Array, 'Circle4Take40Id...')
+#1 /home/iczb6wss881e/dvdrive.co.uk/cardstream/test.php(27): P3\SDK\Gateway::directRequest(Array)
+#2 {main}
+  thrown in /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php on line 390
+[08-Jun-2021 11:40:23 UTC] PHP Fatal error:  Uncaught RuntimeException: Incorrectly signed response from Payment Gateway (2) in /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php:390
+Stack trace:
+#0 /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php(154): P3\SDK\Gateway::verifyResponse(Array, 'Circle4Take40Id...')
+#1 /home/iczb6wss881e/dvdrive.co.uk/cardstream/test.php(27): P3\SDK\Gateway::directRequest(Array)
+#2 {main}
+  thrown in /home/iczb6wss881e/dvdrive.co.uk/cardstream/gateway.php on line 390
